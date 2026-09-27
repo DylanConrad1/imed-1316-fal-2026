@@ -1,0 +1,18 @@
+/*
+60 of #0000ff
+30 of #8000FF
+10 of #0080FF
+*/
+
+:root{
+
+/* var(--primaryColor) */
+--primaryColor: #0000ff;
+
+/* var(--secondaryColor) */
+--secondaryColor: #8000FF;
+
+/* var(--accentColor) */
+--accentColor: #0080FF;
+
+}
