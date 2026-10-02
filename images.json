@@ -1,0 +1,35 @@
+{
+    "gallery_name": "football media collection",
+    "five images": [
+        {
+            "id": "download",
+            "aspect_ratio": "landscape",
+            "local_path": ".assets/horizontal/download.jpg",
+            "description": "Football players tackling"
+        },
+        {
+            "id": "download (1)",
+            "aspect_ratio": "landscape",
+            "local_path": ".assets/horizontal/download(1).jpg",
+            "description": "USC Tackler"
+        },
+        {
+            "id": "images",
+            "aspect_ratio": "vertical",
+            "local_path": ".assets/vertical/images.jpg",
+            "description": "NFL Football"
+        },
+        {
+            "id": "images (1)",
+            "aspect_ratio": "vertical",
+            "local_path": ".assets/vertical/images(1).jpg",
+            "description": "College Football"
+        },
+        {
+            "id": "images (2)",
+            "aspect_ratio": "landscape",
+            "local_path": ".assets/landscape/images(2).jpg",
+            "description": "College Football Players ready for play"
+        }
+    ]
+}
