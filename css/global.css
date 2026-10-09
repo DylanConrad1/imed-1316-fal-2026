@@ -4,15 +4,15 @@
 10 of #0080FF
 */
 
-:root{
+:root {
 
-/* var(--primaryColor) */
---primaryColor: #0000ff;
+    /* var(--primaryColor) */
+    --primaryColor: #0000ff;
 
-/* var(--secondaryColor) */
---secondaryColor: #ffffff;
+    /* var(--secondaryColor) */
+    --secondaryColor: #ffffff;
 
-/* var(--accentColor) */
---accentColor: #0080FF;
+    /* var(--accentColor) */
+    --accentColor: #0080FF;
 
 }
