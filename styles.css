@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@import url('global.css');
+
+body {
+    background-color: royalblue;
+    color: white
+}
+
+.font-awesome-icons {
+    background-color: var(--primaryColor);
+    padding: 25px;
+}
+
+.font-awesome-icons i {
+    font-size: 60px;
+}
+
+
+.dm-sans-imed {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.p-one {
+    color: black;
+    line-height: 1.2;
+    padding: 15px;
+    /*border: 2px solid #000000;*/
+    margin-top: 15px;
+    text-align: center;
+}
+
+.fa-footer {
+    background-color: var(--primaryColor);
+    padding: 25px;
+}
+
+.fa-footer {
+    color: #fff;
+    font-size: 25px;
+    margin: 15px;
+}
+
+.imed.img {
+    width: 100%;
+}
